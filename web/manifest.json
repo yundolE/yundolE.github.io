@@ -1,6 +1,6 @@
 {
-    "name": "app_download_manager",
-    "short_name": "app_download_manager",
+    "name": "flutter_app_download_web",
+    "short_name": "flutter_app_download_web",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
